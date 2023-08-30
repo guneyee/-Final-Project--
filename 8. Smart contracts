@@ -1,8 +1,8 @@
-//Clone the repository to your local machine using Git.
+//Clone the repository to your local machine using Git.//
  git clone https://github.com/your-username/substrate-ink-smart-contract-tutorial.git
  cd substrate-ink-smart-contract-tutorial
 
-//Set up the basic project structure and files for your smart contract.
+//Set up the basic project structure and files for your smart contract.//
 
 mkdir flipper
 cd flipper
