@@ -9,19 +9,7 @@
 Web3 Auction DApp - README
 Welcome to the Web3 Auction DApp project repository! This decentralized application (DApp) leverages blockchain technology to implement an auction platform on the Ethereum network. Participants can place bids on items of interest, and the highest bidder at the end of the auction wins the item.
 
-Table of Contents
-Overview
-Features
-Getting Started
-Prerequisites
-Installation
-Usage
-Smart Contracts
-Testing
-Frontend
-Contributing
-License
-Overview
+
 The Web3 Auction DApp provides a user-friendly interface to participate in Ethereum-based auctions. This project ensures transparency and trust in the auction process through the use of smart contracts. Users can place bids, monitor ongoing auctions, and claim their winnings seamlessly.
 
 Features
@@ -37,6 +25,9 @@ Follow these steps to set up the project locally and start participating in web3
 Prerequisites
 Node.js: Ensure Node.js is installed. Download it from nodejs.org.
 Installation
+
+
+
 Clone the repository:
     git clone [https://github.com/p-Final-Case.git](https://github.com/guneyee/-Final-Project)
 Install required npm packages:
